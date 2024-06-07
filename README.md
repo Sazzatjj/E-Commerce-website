@@ -38,10 +38,3 @@ Getting Started:
 
 This repository primarily focuses on the frontend development of Cara. While some basic backend functionality (e.g., form submission) might be included, more advanced features like secure user accounts, product databases, and payment processing will require additional backend development using technologies like Node.js, Python, or PHP. There may be notes or placeholders within the code to guide further backend implementation.
 
-Contribution:
-
-We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests for review. Please follow general coding conventions and add comments to your code for clarity.
-
-Disclaimer:
-
-This project is intended for demonstration and educational purposes. You may need to adapt and expand it to meet the specific requirements of a fully functional e-commerce website.
